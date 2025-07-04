@@ -1,24 +1,24 @@
 [
-#Author: code-yeasin
+#Author: code-yeasin <br>
 #Portfolio: mryeasin.com
 ]
 
-📁 Repo Name: modern-portfolio
-🧰 Tools & Technologies:
-•	- HTML5, CSS3, JavaScript ES6+
-•	- Tailwind CSS (or Bootstrap)
-•	- Animate.css / AOS.js
-•	- FontAwesome
-•	- EmailJS
-•	- Responsive Design
-•	- Optional: React
-📌 Features to Include:
-•	- Hero section
-•	- About section
-•	- Skills section
-•	- Projects showcase
-•	- Contact form
-•	- Downloadable resume
-•	- Dark mode toggle
-•	- Smooth scroll & scrollspy
-•	- Responsive layout
+📁 Repo Name: modern-portfolio <br><br>
+🧰 Tools & Technologies:<br><br>
+•	- HTML5, CSS3, JavaScript ES6+<br>
+•	- Tailwind CSS (or Bootstrap)<br>
+•	- Animate.css / AOS.js<br>
+•	- FontAwesome<br>
+•	- EmailJS<br>
+•	- Responsive Design<br>
+•	- Optional: React<br>
+📌 Features to Include:<br><br>
+•	- Hero section<br>
+•	- About section<br>
+•	- Skills section<br>
+•	- Projects showcase<br>
+•	- Contact form<br>
+•	- Downloadable resume<br>
+•	- Dark mode toggle<br>
+•	- Smooth scroll & scrollspy<br>
+•	- Responsive layout<br>
