@@ -1,7 +1,5 @@
-[
-#Author: code-yeasin <br>
-#Portfolio: mryeasin.com
-]
+[ #Author: code-yeasin ]<br>
+[ #Portfolio: mryeasin.com ]<br>
 
 📁 Repo Name: modern-portfolio <br><br>
 🧰 Tools & Technologies:<br><br>
@@ -19,6 +17,5 @@
 •	- Projects showcase<br>
 •	- Contact form<br>
 •	- Downloadable resume<br>
-•	- Dark mode toggle<br>
 •	- Smooth scroll & scrollspy<br>
 •	- Responsive layout<br>
